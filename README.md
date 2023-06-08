@@ -1,6 +1,6 @@
 # Flask-CRUD-BOILERPLATE
 
-This repository provides a boilerplate code for building a RESTful API with CRUD (Create, Read, Update, Delete) functionality using Flask framework in Python and MySQL as the database. It also includes a Postman collection for testing the API endpoints.
+This repository provides a boilerplate code for building a RESTful API with CRUD (Create, Read, Update, Delete) functionality using Flask framework in Python and MySQL as the database.
 
 ## Requirements
 
